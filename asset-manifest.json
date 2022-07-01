@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.bc349040.css",
+    "main.js": "/resume/static/js/main.cabceb77.js",
+    "index.html": "/resume/index.html",
+    "main.bc349040.css.map": "/resume/static/css/main.bc349040.css.map",
+    "main.cabceb77.js.map": "/resume/static/js/main.cabceb77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc349040.css",
+    "static/js/main.cabceb77.js"
+  ]
+}
